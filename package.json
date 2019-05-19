@@ -1,8 +1,8 @@
 {
-  "name": "@chile-sh/eslint-ts",
+  "name": "@chile-sh/eslint-config-ts",
   "version": "1.0.1",
   "description": "ESLint rules for Chile.sh TypeScript projects",
-  "repository": "git@github.com:chile-sh/eslint-ts.git",
+  "repository": "git@github.com:chile-sh/eslint-config-ts.git",
   "author": "chile-sh",
   "license": "MIT",
   "devDependencies": {

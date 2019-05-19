@@ -1,10 +1,10 @@
-# eslint-ts
+# eslint-config-ts
 ESLint rules for Chile.sh TypeScript projects
 
 ## Install
 
 ```bash
-yarn add @chile-sh/eslint-ts
+yarn add @chile-sh/eslint-config-ts
 ```
 
 ## Use
@@ -12,7 +12,7 @@ yarn add @chile-sh/eslint-ts
 > .eslintrc
 ```json
 {
-  "extends": "@chile-sh/eslint-ts"
+  "extends": "@chile-sh/eslint-config-ts"
 }
 ```
 
