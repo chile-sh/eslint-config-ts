@@ -4,7 +4,7 @@ ESLint rules for Chile.sh TypeScript projects
 ## Install
 
 ```bash
-yarn add @chile-sh/eslint-config-ts
+yarn add -D @chile-sh/eslint-config-ts
 ```
 
 ## Use
