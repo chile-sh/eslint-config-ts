@@ -1,6 +1,6 @@
 {
   "name": "@chile-sh/eslint-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint rules for Chile.sh TypeScript projects",
   "repository": "git@github.com:chile-sh/eslint-ts.git",
   "author": "chile-sh",
